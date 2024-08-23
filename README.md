@@ -7,7 +7,7 @@ Welcome to the MyERC20Token repository! This project is a smart contract impleme
 - [Introduction](#introduction)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Installation](#installation)
+- [Usage](#usage)
 
 
 ## Introduction
