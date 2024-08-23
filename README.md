@@ -7,8 +7,7 @@ Welcome to the MyERC20Token repository! This project is a smart contract impleme
 - [Introduction](#introduction)
 - [Features](#features)
 - [Requirements](#requirements)
-- [Usage](#usage)
-
+- [Deployment](#Deployment)
 
 ## Introduction
 
@@ -27,7 +26,7 @@ MyERC20Token is a fully compliant ERC20 token smart contract, designed to demons
 - **Solidity Version**: Compatible with Solidity version ^0.8.0.
 - **Ethereum Network**: Ethereum mainnet, testnets (e.g., Ropsten, Rinkeby), or local Ethereum networks (e.g., Ganache).
 
-## Usage
+## Deployment
 
 1. Copy paste the code in Remix IDE.
 2. Compile it and then deploy it.
