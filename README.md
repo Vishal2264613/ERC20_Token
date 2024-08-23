@@ -1,7 +1,3 @@
-Certainly! Here’s a template for a README file for a GitHub repository dedicated to an ERC20 token. This template assumes you're creating a new ERC20 token and want to provide detailed information to other developers or users who might interact with your code.
-
----
-
 # MyERC20Token
 
 Welcome to the MyERC20Token repository! This project is a smart contract implementation of an ERC20 token on the Ethereum blockchain. ERC20 is a standard interface for ERC20 tokens, meaning this token will be compatible with most wallets and exchanges.
